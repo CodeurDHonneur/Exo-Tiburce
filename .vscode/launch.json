@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TestSegment",
+            "request": "launch",
+            "mainClass": "segment.TestSegment",
+            "projectName": "Exo Tiburce_6140f6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Person",
+            "request": "launch",
+            "mainClass": "com.highfive.Person",
+            "projectName": "exo Tiburce_fdd74ef0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Compteur",
+            "request": "launch",
+            "mainClass": "com.highfive.test.Compteur",
+            "projectName": "exo Tiburce_fdd74ef0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestEtudiant",
+            "request": "launch",
+            "mainClass": "etudiant.TestEtudiant",
+            "projectName": "exo Tiburce_fdd74ef0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Person(1)",
+            "request": "launch",
+            "mainClass": "etudiant.test.Person",
+            "projectName": "exo Tiburce_fdd74ef0"
+        }
+    ]
+}
